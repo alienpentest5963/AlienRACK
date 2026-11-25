@@ -50,7 +50,7 @@ AlienRACK is under active development.
 
 AlienRACK is available to verified security professionals and organizations.
 For licensing, demos, and inquiries, please visit the official site:
-
+Pricing: $99/month or $990/year — all features included. Available to verified security professionals and organizations.
 🌐 https://alienrack.dev
 
 ---
